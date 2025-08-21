@@ -71,7 +71,7 @@ This project demonstrates the deployment of T-Pot, a multi-honeypot platform for
 ![SpiderFoot Interface](screenshots/spiderfoot-interface.png)
 *SpiderFoot threat intelligence platform*
 
-### 9. Real-time Attack Monitoring
+### 9. Real-time T-Pot Attack Map Monitoring
 - Monitored live attack data and honeypot interactions
 - Tracked threat actor activities and patterns
 - Analyzed real-time security events
@@ -79,7 +79,7 @@ This project demonstrates the deployment of T-Pot, a multi-honeypot platform for
 ![Real-time Attack Monitoring](screenshots/realtime-attack-monitoring.png)
 *Live attack monitoring and threat detection*
 
-### 10. Security Scan Management
+### 10. Security Scan Management sicherheitstacho
 - Configured vulnerability scanning capabilities
 - Set up automated security assessment
 - Prepared for comprehensive network analysis
