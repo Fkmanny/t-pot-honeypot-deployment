@@ -135,7 +135,7 @@ This project demonstrates the deployment of T-Pot, a multi-honeypot platform for
 - Network connectivity with external access
 - sudo privileges for installation
 
-"### Implementation Steps
+### Implementation Steps
 
 1. **System Preparation**
 ```bash
@@ -187,4 +187,4 @@ nano /opt/tpot/etc/tpot.yml
 ```bash
 # Configure log retention and analysis
 nano /opt/tpot/etc/elasticsearch/elasticsearch.yml
-```"
+```
